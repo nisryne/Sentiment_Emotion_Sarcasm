@@ -21,8 +21,6 @@ L'image illustre une analyse comparative de la distribution des sentiments class
 Utilisez un modèle entraîné à partir d’une grande quantité de données.
 Le modèle Transformers  prend en compte les mots mais aussi le contexte lié aux autres mots.
 
-Ici on a Combiner et comparer les deux approches Roberta et VAder 
-
 #  Emotion
 1 Description
 Cette section du projet est consacrée à l'exploration des capacités de détection des émotions en utilisant un modèle pré-entraîné de traitement du langage naturel (NLP). L'objectif est de discerner avec précision les émotions variées et souvent subtiles exprimées à travers le texte. Les émotions, telles que la joie, la tristesse, la colère, la surprise, la peur, et d'autres nuances émotionnelles, jouent un rôle crucial dans la compréhension du contexte et du ton d'un message.
